@@ -1,4 +1,4 @@
-package ex;
+package operator.ex;
 
 public class Question1 {
 
